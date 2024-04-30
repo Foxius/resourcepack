@@ -1,0 +1,7 @@
+{
+    "parent": "item/potion",
+    "textures": {
+        "layer0": "mechanization:base/item/vial_overlay",
+        "layer1": "mechanization:base/item/vial"
+    }
+}

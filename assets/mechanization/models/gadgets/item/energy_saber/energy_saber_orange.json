@@ -1,0 +1,6 @@
+{
+	"parent":"mechanization:gadgets/item/energy_saber/energy_saber_white",
+	"textures": {
+		"0": "mechanization:gadgets/item/energy_saber/energy_saber_orange"
+	}
+}

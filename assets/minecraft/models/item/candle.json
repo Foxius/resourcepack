@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer1": "item/candle"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 300006 }, "model": "item/vapes/vape_avalanche" },
+		{ "predicate": { "custom_model_data": 300007 }, "model": "item/vapes/vape_nebula" },
+		{ "predicate": { "custom_model_data": 300008 }, "model": "item/vapes/vape_quadro" },
+		{ "predicate": { "custom_model_data": 300009 }, "model": "item/vapes/vape_hikigaeru00" },
+		{ "predicate": { "custom_model_data": 300010 }, "model": "item/vapes/vape_hqd" },
+		{ "predicate": { "custom_model_data": 300011 }, "model": "item/vapes/vape_jesus_666_s" },
+		{ "predicate": { "custom_model_data": 300012 }, "model": "item/vapes/vape_quadro_secret" }
+	]
+}

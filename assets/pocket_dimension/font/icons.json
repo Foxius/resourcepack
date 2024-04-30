@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "pocket_dimension:icons/config.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\u0001\u0101\u4001\u4002",
+                "\u0002\u0102\u4101\u4102",
+                "\u0003\u0103\u4011\u4012",
+                "\u1001\u0000\u4111\u4112",
+                "\u4021\u4121\u4022\u4122",
+                "\u0011\u0111\u0012\u0112",
+                "\u0021\u0121\u0022\u0122"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "pocket_dimension:icons/config_x2.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\u2001",
+                "\u2002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "pocket_dimension:icons/chat.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\u3001\u3101\u3201\u3301",
+                "\u3002\u3102\u3202\u3302",
+                "\u3003\u3103\u3203\u3303"
+            ]
+        }
+    ]
+}

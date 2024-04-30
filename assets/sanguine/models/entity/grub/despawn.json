@@ -1,0 +1,6 @@
+{
+	"parent": "sanguine:entity/grub/spawn",
+	"textures": {
+		"0": "sanguine:entity/grub/despawn"
+	}
+}

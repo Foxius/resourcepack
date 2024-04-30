@@ -1,0 +1,242 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:icon.png",
+            "ascent": 16,
+            "height": 32,
+            "chars": ["\u24B9"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:overworld.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["ொ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:nether.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["ோ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:the_end.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["ௌ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:badlands.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௑"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:beach.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௓"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:snowy_beach.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௱"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:river.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["オ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:frozen_river.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௰"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:birch.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["ௐ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dark_forest.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௒"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:frozen_ocean.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௏"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ocean.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௫"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:savanna.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௬"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:jungle.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௩"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:jungle_bamboo.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௪"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:taiga.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௮"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:snowytaiga.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௭"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:mushroom.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௯"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:plains.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௲"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:snowy_plains.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௳"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:desert.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௴"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:frozen_peaks.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௵"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ice_spikes.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௶"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:forest.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௷"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:mangrove_swamp.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௸"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:swamp.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௹"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:peaks.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["௺"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:snowy_forest.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["ఁ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:deep_dark.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["ం"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dripstone_caves.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["ః"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:lush_caves.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["カఄ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:cursed_lands.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["ϛ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimensional.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["✶"]
+        }
+    ]
+}

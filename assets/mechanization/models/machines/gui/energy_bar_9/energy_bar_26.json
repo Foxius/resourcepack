@@ -1,0 +1,6 @@
+{
+	"parent": "mechanization:machines/gui/energy_bar_9/energy_bar_0",
+    "textures": {
+        "0": "mechanization:machines/gui/energy_bar/energy_bar_26"
+    }
+}

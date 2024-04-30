@@ -1,0 +1,157 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/credence.png",
+      "ascent": 5,
+      "height": 48,
+      "chars": [
+        "\ua000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/sanguine_chalice.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/sacrificial_knife.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/blood_well.png",
+      "ascent": 5,
+      "height": 24,
+      "chars": [
+        "\ua003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/drying_rack.png",
+      "ascent": 5,
+      "height": 24,
+      "chars": [
+        "\ua004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/sanguine_urn.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/effigy.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/gut_bundle.png",
+      "ascent": 5,
+      "height": 24,
+      "chars": [
+        "\ua007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/flesh_tuner.png",
+      "ascent": 5,
+      "height": 24,
+      "chars": [
+        "\ua008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/crimson_shrine.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/noxious_gut.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/inner_orb.png",
+      "ascent": 5,
+      "height": 24,
+      "chars": [
+        "\ua011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/vile_viscus.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/bone_needle.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/claw_trap.png",
+      "ascent": 5,
+      "height": 24,
+      "chars": [
+        "\ua014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/flesh_pylon.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "sanguine:gui/recipe/nail_bat.png",
+      "ascent": 5,
+      "height": 49,
+      "chars": [
+        "\ua016"
+      ]
+    }
+  ]
+}

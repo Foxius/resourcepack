@@ -1,0 +1,6 @@
+{
+	"parent": "manic:entity/lockjaw/spawn",
+	"textures": {
+		"0": "manic:entity/lockjaw/spit"
+	}
+}

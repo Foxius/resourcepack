@@ -1,0 +1,6 @@
+{
+    "parent": "mechanization:base/item/machine_upgrade",
+    "textures": {
+        "layer0": "mechanization:base/item/ender_upgrade"
+    }
+}

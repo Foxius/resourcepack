@@ -1,0 +1,6 @@
+{
+	"parent": "sanguine:entity/reaper/spawn",
+	"textures": {
+		"0": "sanguine:entity/reaper/prime"
+	}
+}

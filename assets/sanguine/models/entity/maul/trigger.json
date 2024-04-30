@@ -1,0 +1,6 @@
+{
+	"parent": "sanguine:entity/maul/spawn",
+	"textures": {
+		"0": "sanguine:entity/maul/trigger"
+	}
+}

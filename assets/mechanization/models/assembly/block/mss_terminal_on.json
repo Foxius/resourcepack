@@ -1,0 +1,8 @@
+{
+    "parent":"mechanization:assembly/block/mss_terminal_off",
+    "textures": {
+        "0": "mechanization:base/block/t3_metal_plate",
+        "1": "mechanization:assembly/block/mss_terminal_top",
+        "2": "mechanization:assembly/block/mss_terminal_on"
+    }
+}

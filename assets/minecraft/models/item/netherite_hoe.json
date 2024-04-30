@@ -1,0 +1,21 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_hoe"
+    },
+    "overrides": [
+		{ "predicate": { "custom_model_data": 6424101 }, "model": "mechanization:gadgets/item/drill" },
+            {
+      "predicate": {
+        "custom_model_data": 8360000
+      },
+      "model": "manic:item/charonite/charonite_hoe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8360001
+      },
+      "model": "manic:item/elderskin/elderskin_scythe"
+    }
+	]
+}

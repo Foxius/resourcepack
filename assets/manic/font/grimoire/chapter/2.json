@@ -1,0 +1,82 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "manic:gui/grimoire/icons/all_corpseplants.png",
+      "ascent": -8,
+      "height": 13,
+      "chars": [
+        "aA"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "manic:gui/grimoire/icons/anirrum.png",
+      "ascent": -8,
+      "height": 13,
+      "chars": [
+        "bB"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "manic:gui/grimoire/icons/gelatin.png",
+      "ascent": -8,
+      "height": 13,
+      "chars": [
+        "cC"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "manic:gui/grimoire/icons/stop_illness.png",
+      "ascent": -8,
+      "height": 13,
+      "chars": [
+        "dD"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "manic:gui/grimoire/icons/hunger.png",
+      "ascent": -8,
+      "height": 13,
+      "chars": [
+        "eE"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "manic:gui/grimoire/icons/potion_sanity.png",
+      "ascent": -8,
+      "height": 13,
+      "chars": [
+        "fF"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "manic:gui/grimoire/icons/sharing_ritual.png",
+      "ascent": -8,
+      "height": 13,
+      "chars": [
+        "gG"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "manic:gui/grimoire/return.png",
+      "ascent": -8,
+      "height": 13,
+      "chars": [
+        "zZ"
+      ]
+    }
+  ]
+}

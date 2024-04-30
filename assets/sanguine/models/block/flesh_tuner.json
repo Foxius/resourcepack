@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "sanguine:block/flesh_tuner/side",
+    "north": "sanguine:block/flesh_tuner/side",
+    "south": "sanguine:block/flesh_tuner/side",
+    "east": "sanguine:block/flesh_tuner/side",
+    "west": "sanguine:block/flesh_tuner/side",
+    "up": "sanguine:block/flesh_tuner/top",
+    "down": "sanguine:block/flesh_tuner/bottom"
+  }
+}

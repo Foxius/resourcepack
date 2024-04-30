@@ -1,0 +1,8 @@
+{
+    "parent":"mechanization:machines/block/tier_1_liquid_tank/tank_empty",
+	"textures": {
+		"0": "minecraft:block/nether_bricks",
+		"1": "mechanization:base/block/t2_metal_plate",
+		"2": "mechanization:machines/block/tier_2_liquid_tank/side_empty"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "sanguine:entity/bruiser/spawn",
+	"textures": {
+		"0": "sanguine:entity/bruiser/whip"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "item.minecraft.knowledge_book": "\u00a7f\uc870\ud569 \uacb0\uacfc\ubb3c",
+  "pack.nucleus": "Nucleus",
+  "pack.nucleus.addition.gamerules": "\uac8c\uc784 \uaddc\uce59",
+  "pack.nucleus.addition.commands": "\uba85\ub839\uc5b4",
+  "pack.nucleus.addition.wiki": "\uc704\ud0a4",
+  "menu.nucleus.install": "%s v%s \uc131\uacf5\uc801\uc73c\ub85c \uc124\uce58 \ub418\uc5c8\uc2b5\ub2c8\ub2e4\n%s\n\n\uc124\uce58\ub41c \ub370\uc774\ud130\ud329:",
+  "menu.nucleus.install.tip": "%s\ub97c \uc0ac\uc6a9\ud574 \uc774 \uba54\ub274\ub97c \ub2e4\uc2dc \ucf24 \uc218 \uc788\uc2b5\ub2c8\ub2e4",
+  "menu.nucleus.return": "\ub3cc\uc544\uac00\uae30",
+  "pack.nucleus.additions.1": "- %s v%s (%s)",
+  "pack.nucleus.additions.2": "- %s v%s (%s | %s)",
+  "pack.nucleus.additions.3": "- %s v%s (%s | %s | %s)"
+}

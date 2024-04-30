@@ -1,0 +1,32 @@
+{
+    "textures": {
+        "0": "mechanization:machines/gui/energy_bar/energy_bar_0",
+        "1": "mechanization:base/gui/fill_slot"
+    },
+	"display": {
+		"gui": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 33, 6, 0 ],
+			"scale": [ 3, 3, 3 ]
+		}
+	},
+	"elements": [
+		{
+            "name": "Display",
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 32.0, 32.0, 0.0 ], 
+            "faces": {
+                "south": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        },
+		{
+            "name": "Display",
+            "from": [ -6, 3.0, 0.0 ], 
+            "to": [ 0.0, 9, 0.0 ], 
+            "faces": {
+                "south": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        }
+	],
+	"gui_light":"front"
+}

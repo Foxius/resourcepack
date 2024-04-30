@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mechanization:machines/block/t1_battery/battery_empty",
+	"textures": {
+		"0": "mechanization:base/block/t3_metal_plate",
+		"1": "mechanization:base/block/t3_battery_side",
+		"2": "mechanization:base/block/t3_solid_dark",
+		"3": "mechanization:base/block/t3_gradient_panel",
+		"5": "mechanization:base/block/energy_storage_5",
+		"6": "minecraft:block/purple_stained_glass"
+	}
+}

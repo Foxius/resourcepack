@@ -1,0 +1,6 @@
+{
+    "parent":"mechanization:machines/block/bio_generator_off",
+    "textures": {
+        "0": "mechanization:machines/block/bio_generator_side_on"
+    }
+}
