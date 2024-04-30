@@ -1,6 +1,0 @@
-{
-	"parent": "jolted:entity/copper_golem/idle",
-	"textures": {
-		"0": "jolted:entity/copper_golem/exposed/intimidate"
-	}
-}

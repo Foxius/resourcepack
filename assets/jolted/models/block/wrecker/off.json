@@ -1,6 +1,0 @@
-{
-  "parent": "jolted:block/wrecker/on",
-  "textures": {
-		"north": "jolted:block/wrecker/wrecker_front"
-  }
-}

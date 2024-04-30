@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "jolted:item/cunife_compass/cunife_compass_22"
-  }
-}

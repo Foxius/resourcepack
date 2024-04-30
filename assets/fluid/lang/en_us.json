@@ -1,13 +1,13 @@
 {
-  "fluid.fluidcrafting.water": "Water",
-  "fluid.fluidcrafting.beetroot_soup": "Beetroot Soup",
-  "fluid.fluidcrafting.honey": "Honey",
-  "fluid.fluidcrafting.lava": "Lava",
-  "fluid.fluidcrafting.milk": "Milk",
-  "fluid.fluidcrafting.mushroom_stew": "Mushroom Stew",
-  "fluid.fluidcrafting.powder_snow": "Powder Snow",
-  "fluid.fluidcrafting.rabbit_stew": "Rabbit Stew",
-  "fluid.fluidcrafting.liquid_experience": "Liquid Experience",
+  "fluid.fluidcrafting.water": "Вода",
+  "fluid.fluidcrafting.beetroot_soup": "Свекольный суп",
+  "fluid.fluidcrafting.honey": "Мед",
+  "fluid.fluidcrafting.lava": "Лава",
+  "fluid.fluidcrafting.milk": "Молоко",
+  "fluid.fluidcrafting.mushroom_stew": "Грибное рагу",
+  "fluid.fluidcrafting.powder_snow": "Порошковый снег",
+  "fluid.fluidcrafting.rabbit_stew": "Рагу из кролика",
+  "fluid.fluidcrafting.liquid_experience": "Жидкий опыт",
 
-  "item.fluidcrafting.generic_bottle": "Bottle of %s"
+  "item.fluidcrafting.generic_bottle": "Бутылка %s"
 }
