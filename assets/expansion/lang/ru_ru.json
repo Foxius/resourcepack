@@ -392,7 +392,7 @@
     "exp_screentxt_position_actionbar":"Позиция: ",
     "exp_screentxt_speed_actionbar":"Скорость: ",
     "exp_screentxt_fuel_actionbar":"Топливо: ",
-    "exp_screentxt_loaderror_chat":"Расширение было установлено неправильно, пользовательские измерения не загрузились. Попробуйте снова присоединиться или перезапустить ваш мир и убедитесь, что вы не играете на несовместимом сервере.",
+    "exp_screentxt_loaderror_chat":"Экспансия было установлено неправильно, пользовательские измерения не загрузились. Попробуйте снова присоединиться или перезапустить ваш мир и убедитесь, что вы не играете на несовместимом сервере.",
     "exp_screentxt_oxygen_basetoobig":"§cБаза либо слишком большая, либо не герметична.",
     "exp_screentxt_oxygen_pressurefail":"§c§lРазгерметизация не удалась",
     "exp_screentxt_oxygen_pressuresuccess":"§a§lБаза герметизирована",
@@ -406,10 +406,10 @@
     "exp_screentxt_rocket_fuelfail3":"§c§lСобери больше Лакрими",
     "exp_screentxt_fuelsuccess":"§a§lУровень топлива 100%",
 
-    "exp_screentxt_stoptick1":"Все функции Расширения отключены, оно больше не будет влиять на производительность.",
+    "exp_screentxt_stoptick1":"Все функции Экспансии отключены, оно больше не будет влиять на производительность.",
     "exp_screentxt_stoptick2":"§c§lНЕ УДАЛЯЙТЕ ФАЙЛЫ ИЗ ВАШЕГО МИРА!",
     "exp_screentxt_stoptick3":"Удаление приведет к поломке вашего мира/сервера.",
-    "exp_screentxt_starttick":"Функции Расширения включены.",
+    "exp_screentxt_starttick":"Функции Экспансии включены.",
 
     "exp_advancement_allplanet_title":"Крестоносец звездной пыли",
     "exp_advancement_allplanet_desc":"Исследуйте всю Солнечную систему.",
@@ -449,7 +449,7 @@
     "exp_advancement_moon_desc":"Успешно приземлись на Луну, поздравляю!",
     "exp_advancement_pocketspace_title":"Внутри больше...",
     "exp_advancement_pocketspace_desc":"Войди в свое личное карманное пространство.",
-	"exp_advancement_root_title":"Расширение",
+	"exp_advancement_root_title":"Экспансия",
     "exp_advancement_root_desc":"Готовы ли вы расширить Minecraft за пределы атмосферы Земли?",
     "exp_advancement_space_title":"Центр управления полетами к мэру Тому",
     "exp_advancement_space_desc":"Достигните царства Космоса, далеко за пределами атмосферы.",
@@ -489,7 +489,7 @@
     "exp_advancement_hangover_desc":"Пересмотри свои решения.",
 
     "exp_advancement_special_thanks_root_title":"Особая благодарность",
-    "exp_advancement_special_thanks_root_desc":"Всем, кто помог мне создать Расширение.",
+    "exp_advancement_special_thanks_root_desc":"Всем, кто помог мне создать Экспансию.",
 
     "death.attack.zapped":"%1$s жизнь шокирующе подошла к концу",
     "death.attack.railgun":"%1$s успешно столкнулся с сверхзвуковой пулей!",
