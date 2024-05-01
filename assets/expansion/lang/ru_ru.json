@@ -13,10 +13,10 @@
     "exp_moonstudy_5":"§b§lОткровение 4:§f§r\nМожет быть, я могу использовать взрывчатку, чтобы взорвать себя на §7Луну?§f Это всего лишь ракетная наука в конце концов. \n§b§o[Прогресс изучения Луны: 80%]\n",
     "exp_moonstudy_6":"Звезды открыли мне свои секреты! Я изобрел §4§lкосмические путешествия! \n§b§o[Прогресс изучения Луны: 100%]\n",
 
-    "exp_guide1_name":"Руководство по космическим путешествиям",
-    "exp_guide1_title":"§l      Руководство по \n    космическим\n    путешествиям\n",
+    "exp_guide1_name":"Руководство по космопутешествиям",
+    "exp_guide1_title":"§l    Космические\n    путешествия\n\n",
     "exp_guide1_desc":"\nЭта книга направит вас в ваше путешествие к звездам.",
-    "exp_guide1_signature":"\nБлагословенного пути! §o\n~VonLeipenstein",
+    "exp_guide1_signature":"\nБлагословенного пути! §o\n~saikonohack",
 
     "exp_guide1_contents":"§l Оглавление\n",
     "exp_guide1_contents_chapter1":"§3§n\nЧасть 1: Введение\n",
@@ -28,9 +28,9 @@
 
     "exp_guide1_contents_itemrecipes":"- Рецепты предметов\n",
     "exp_guide1_contents_blockrecipes":"- Рецепты блоков\n",
-    "exp_guide1_contents_toolrecipes":"- Рецепты инструментов\n",
+    "exp_guide1_contents_toolrecipes":"- Инструменты\n",
     "exp_guide1_contents_armorrecipes":"- Рецепты брони\n",
-    "exp_guide1_contents_vehiclerecipes":"- Рецепты транспортных средств\n",
+    "exp_guide1_contents_vehiclerecipes":"- Транспорт\n",
 
     "exp_guide1_contents_moon":"- Луна\n",
     "exp_guide1_contents_mars":"- Марс\n",
@@ -40,7 +40,7 @@
     "exp_guide1_contents_asteroids":"- Астероиды\n",
 
 	"exp_guide1_chapter1":"§l\n\n\n\n\n       Часть 1:\n    Введение",
-    "exp_guide1_chapter2":"§l\n\n\n\n\n       Часть 2:\n      Изготовление",
+    "exp_guide1_chapter2":"§l\n\n\n\n\n       Часть 2:\n    Изготовление",
     "exp_guide1_chapter3":"§l\n\n\n\n\n       Часть 3:\n    Атлас космоса",
 
     "exp_guide1_itemrecipes":"§lРецепты предметов\n",
@@ -54,19 +54,19 @@
 
     "exp_guide1_temperature_title":"§lТемпература\n\n",
     "exp_guide1_temperature_body":"На некоторых планетах экстремальный климат. Вам придется модернизировать ваше Космическое Оборудование с помощью §3§lмодулей§r, чтобы защитить себя от экстремальных температур.",
-	"exp_guide1_steeltier":"§7\n---Стальной уровень-------\n",
-    "exp_guide1_amethoniumtier":"§7\n\n\n---Аметониевый уровень--\n",
-    "exp_guide1_craftingstations":"§7\n---Станции изготовления-\n\n",
-    "exp_guide1_oxygenutility":"§7\n\n\n---Кислородные средства----\n",
+	"exp_guide1_steeltier":"§7\n---Сталь-------\n",
+    "exp_guide1_amethoniumtier":"§7\n\n\n---Аметоний--\n",
+    "exp_guide1_craftingstations":"§7\n---Крафт станции-\n\n",
+    "exp_guide1_oxygenutility":"§7\n\n\n---Кислород----\n",
     "exp_guide1_oxygentools":"§7\n---Кислородные инструменты----\n",
     "exp_guide1_weapons":"§7\n\n---Оружие--------\n",
     "exp_guide1_otherblocks":"§7\n\n\n---Другие блоки----\n",
     "exp_guide1_othertools":"§7\n\n---Другие инструменты-----\n",
-    "exp_guide1_utilityarmor":"§7\n---Специальная броня---\n",
+    "exp_guide1_utilityarmor":"§7\n---Спецброня---\n",
     "exp_guide1_modules":"§7\n\n---Модули улучшения-\n",
     "exp_guide1_rocket":"§7\n---Ракета---------\n",
     "exp_guide1_spaceship":"§7\n\n---Космический корабль------\n",
-    "exp_guide1_buggy":"§7\n\n---Лунный вездеход-----\n",
+    "exp_guide1_buggy":"§7\n\n---Луноход-----\n",
 
     "exp_guide1_arcfurnace_tip":"\n§b§oПлавит сплавы!",
     "exp_guide1_fabricator_tip":"\n§b§oИзготавливает предметы!\n\n§f§oИзготовление: ",
@@ -130,7 +130,7 @@
     "exp_drone_toofar":"] --Ты все еще за мной следуешь?--",
     "exp_drone_error":"] --Ошибка! Обнаружено несколько структур--",
     "exp_drone_tip1":"§a§oЯ найду любые ближайшие структуры!",
-    "exp_drone_tip2":"§a§o...и буду держать тебя компанию, когда в космосе станет слишком одиноко :)",
+    "exp_drone_tip2":"§a§o...и буду твоей компанией, когда в космосе станет слишком одиноко :)",
     "exp_drone_tip3":"§b- Кликните правой кнопкой мыши по дрону, чтобы начать сканирование",
     "exp_drone_tip4":"§b- Кликните левой кнопкой мыши по дрону, чтобы поднять его",
     
