@@ -631,7 +631,7 @@
 		{ "type": "bitmap", "ascent": 8,  "height": 18, "chars": ["\ueffe"],       "file": "mechanization:base/font/manual/index_icon/sonic_barrel.png" },
 		{ "type": "bitmap", "ascent": 16, "height": 16, "chars": ["\uefff"],       "file": "mechanization:gadgets/item/sonic_barrel.png" },
 		{ "type": "bitmap", "ascent": 8,  "height": 64, "chars": ["\uf000\uf001"], "file": "mechanization:base/font/manual/recipe/sonic_barrel.png" },
-		
+
 		{
             "type": "bitmap",
             "file": "mechanization:base/font/manual/simplenergy_icon.png",
