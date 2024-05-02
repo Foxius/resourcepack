@@ -1,5 +1,5 @@
 {
-	"pack.manic": "Мания",
+	"pack.manic": "Тайны тьмы",
 
 	"entity.manic.shadow_spook": "Теневой Призрак",
 	"entity.manic.heretic": "Еретик",
@@ -11,6 +11,22 @@
 	"entity.manic.rift_vigil": "Дозор в Пределах",
 	"entity.manic.hades": "Аид",
 	"entity.manic.cerberus": "Цербер",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	"subtitles.manic.entity.player.gain_insight": "Знание поглощено",
 	"subtitles.manic.entity.spectre.despawn": "Призрак искривляется",
@@ -25,12 +41,12 @@
 	"subtitles.manic.entity.spook.spit": "Призрак отрыгивает",
 	"subtitles.manic.entity.spook.attack": "Призрак грызет",
 	"subtitles.manic.entity.spook.red_spook_scream": "Счастливого первого апреля!",
-	"subtitles.manic.entity.shadow_spook.spawn": "Теневой Призрак бормочет",
-	"subtitles.manic.entity.shadow_spook.ambient": "Теневой Призрак шепчет",
-	"subtitles.manic.entity.shadow_spook.hurt": "Теневой Призрак ранен",
-	"subtitles.manic.entity.shadow_spook.death": "Теневой Призрак расплавляется",
-	"subtitles.manic.entity.shadow_spook.attack": "Теневой Призрак режет",
-	"subtitles.manic.entity.shadow_spook.taunt": "Теневой Призрак дразнит",
+	"subtitles.manic.entity.shadow_spook.spawn": "Тёмный Призрак бормочет",
+	"subtitles.manic.entity.shadow_spook.ambient": "Тёмный Призрак шепчет",
+	"subtitles.manic.entity.shadow_spook.hurt": "Тёмный Призрак ранен",
+	"subtitles.manic.entity.shadow_spook.death": "Тёмный Призрак расплавляется",
+	"subtitles.manic.entity.shadow_spook.attack": "Тёмный Призрак режет",
+	"subtitles.manic.entity.shadow_spook.taunt": "Тёмный Призрак дразнит",
 	"subtitles.manic.entity.spook.spawn": "Призрак бормочет",
 	"subtitles.manic.entity.revenant.ambient": "Мститель душится",
 	"subtitles.manic.entity.revenant.hurt": "Мститель ранен",
