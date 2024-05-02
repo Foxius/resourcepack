@@ -237,6 +237,13 @@
             "ascent": 8,
             "height": 16,
             "chars": ["✶"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:sanguine.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["⾌"]
         }
     ]
 }
