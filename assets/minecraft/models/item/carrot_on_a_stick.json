@@ -4,7 +4,7 @@
         "layer0": "item/carrot_on_a_stick"
     },
     "overrides": [
-					{"predicate": {"custom_model_data":822300}, "model": "ulg_backpack:normal"},
+			{"predicate": {"custom_model_data":822300}, "model": "ulg_backpack:normal"},
 			{"predicate": {"custom_model_data":822301}, "model": "ulg_backpack:normal_opened"},
 			{"predicate": {"custom_model_data":822302}, "model": "ulg_backpack:blue"},
 			{"predicate": {"custom_model_data":822303}, "model": "ulg_backpack:blue_opened"},
