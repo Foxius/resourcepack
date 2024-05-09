@@ -4,6 +4,12 @@
         "layer0": "item/netherite_shovel"
     },
     "overrides": [
+          {
+      "predicate": {
+        "custom_model_data": 90000
+      },
+      "model": "stellarity:item/shulker_shovel"
+    },
 		{ "predicate": { "custom_model_data": 6424101 }, "model": "mechanization:gadgets/item/drill" },
             {
       "predicate": {
@@ -16,12 +22,7 @@
         "custom_model_data": 8360001
       },
       "model": "manic:item/elderskin/elderskin_spade"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 90000
-      },
-      "model": "stellarity:item/shulker_shovel"
     }
+
 	]
 }

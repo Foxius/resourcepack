@@ -4,6 +4,18 @@
         "layer0": "item/netherite_pickaxe"
     },
     "overrides": [
+              {
+            "predicate": {
+              "custom_model_data": 90000
+            },
+            "model": "stellarity:item/shulker_pickaxe"
+          },
+          {
+            "predicate": {
+              "custom_model_data": 90001
+            },
+            "model": "stellarity:item/hematic_pickaxe"
+          },
 		{ "predicate": { "custom_model_data": 6424101 }, "model": "mechanization:gadgets/item/drill" },
             {
       "predicate": {
@@ -16,18 +28,6 @@
         "custom_model_data": 8360001
       },
       "model": "manic:item/elderskin/elderskin_mattock"
-    },
-        {
-      "predicate": {
-        "custom_model_data": 90000
-      },
-      "model": "stellarity:item/shulker_pickaxe"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 90001
-      },
-      "model": "stellarity:item/hematic_pickaxe"
     }
 	]
 }

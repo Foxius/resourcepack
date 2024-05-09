@@ -4,19 +4,7 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 8360000
-      },
-      "model": "manic:item/charonite/charonite_sword"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 8360001
-      },
-      "model": "manic:item/elderskin/elderskin_claymore"
-    },
-    {
+        {
       "predicate": {
         "custom_model_data": 90000
       },
@@ -63,6 +51,18 @@
         "custom_model_data": 90007
       },
       "model": "stellarity:item/stellar_striker"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8360000
+      },
+      "model": "manic:item/charonite/charonite_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8360001
+      },
+      "model": "manic:item/elderskin/elderskin_claymore"
     }
   ]
 }
