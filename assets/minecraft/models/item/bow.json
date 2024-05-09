@@ -74,7 +74,94 @@
           "custom_model_data": 8360000
         },
         "model": "manic:item/elderskin/elderskin_greatbow_pulling_2"
-      }
+      },
+          {
+      "predicate": {
+        "custom_model_data": 90000
+      },
+      "model": "stellarity:item/sharanga"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 90000
+      },
+      "model": "stellarity:item/sharanga_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65,
+        "custom_model_data": 90000
+      },
+      "model": "stellarity:item/sharanga_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 90000
+      },
+      "model": "stellarity:item/sharanga_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90001
+      },
+      "model": "stellarity:item/spectral_fury"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 90001
+      },
+      "model": "stellarity:item/spectral_fury_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65,
+        "custom_model_data": 90001
+      },
+      "model": "stellarity:item/spectral_fury_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 90001
+      },
+      "model": "stellarity:item/spectral_fury_pulling_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90002
+      },
+      "model": "stellarity:item/call_of_the_void"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "custom_model_data": 90002
+      },
+      "model": "stellarity:item/call_of_the_void_pulling_0"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.65,
+        "custom_model_data": 90002
+      },
+      "model": "stellarity:item/call_of_the_void_pulling_1"
+    },
+    {
+      "predicate": {
+        "pulling": 1,
+        "pull": 0.9,
+        "custom_model_data": 90002
+      },
+      "model": "stellarity:item/call_of_the_void_pulling_2"
+    }
     ]
   }
   

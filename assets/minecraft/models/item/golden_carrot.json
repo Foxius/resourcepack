@@ -4,6 +4,12 @@
     "layer0": "minecraft:item/golden_carrot"
   },
   "overrides": [
-	{ "predicate": { "custom_model_data": 8360000 }, "model": "manic:item/writhing_eye" }
+	{ "predicate": { "custom_model_data": 8360000 }, "model": "manic:item/writhing_eye" },
+      {
+      "predicate": {
+        "custom_model_data": 90000
+      },
+      "model": "stellarity:item/lucky_carrot"
+    }
   ]
 }

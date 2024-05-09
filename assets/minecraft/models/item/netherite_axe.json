@@ -16,6 +16,18 @@
         "custom_model_data": 8360001
       },
       "model": "manic:item/elderskin/elderskin_cleaver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90000
+      },
+      "model": "stellarity:item/shulker_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 90001
+      },
+      "model": "stellarity:item/kaleidoscope"
     }
 	]
 }

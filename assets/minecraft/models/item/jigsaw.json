@@ -112,6 +112,8 @@
 	 { "predicate": {"custom_model_data": 126001}, "model": "expansion:structures/portal_core_green"},
 	 { "predicate": {"custom_model_data": 126002}, "model": "expansion:structures/portal_core_red"},
 	 { "predicate": {"custom_model_data": 126003}, "model": "expansion:structures/portal_core_purple"},
-	 { "predicate": {"custom_model_data": 126004}, "model": "expansion:structures/portal_core_yellow"}
+	 { "predicate": {"custom_model_data": 126004}, "model": "expansion:structures/portal_core_yellow"},
+	 { "predicate": {"custom_model_data": 90000}, "model": "stellarity:item/enderite_smithing_template"
+		}
 	] 
    }
