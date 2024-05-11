@@ -1,6 +1,0 @@
-{
-	"parent": "monster_roster:entity/armantis/wild/idle",
-	"textures": {
-		"0": "monster_roster:entity/armantis/wild/walk"
-	}
-}

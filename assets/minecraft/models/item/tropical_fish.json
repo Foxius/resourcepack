@@ -6,6 +6,12 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 90000
+      },
+      "model": "stellarity:item/ender_koi"
+    },
+    {
+      "predicate": {
         "custom_model_data": 8360000
       },
       "model": "manic:item/corpsebulb/main"
@@ -69,30 +75,6 @@
         "custom_model_data": 8361002
       },
       "model": "sanguine:item/flesh_jerky"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 8362000
-      },
-      "model": "jolted:item/chocolate_coin"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 8365000
-      },
-      "model": "monster_roster:item/grub"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 8365001
-      },
-      "model": "monster_roster:item/burnt_grub"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 90000
-      },
-      "model": "stellarity:item/ender_koi"
     }
   ]
 }

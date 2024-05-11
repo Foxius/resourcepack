@@ -4,6 +4,8 @@
         "layer0": "item/netherite_hoe"
     },
     "overrides": [
+    {"predicate": {"custom_model_data": 423000}, "model": "florcraft:item/bountiful_earth_hoe"},
+    {"predicate": {"custom_model_data": 423001}, "model": "florcraft:item/proto_hoe"},
     {"predicate": {"custom_model_data": 90000}, "model": "stellarity:item/shulker_hoe"},
     {"predicate": {"custom_model_data": 90001}, "model": "stellarity:item/starless_scythe"},
     {"predicate": { "custom_model_data": 6424101 }, "model": "mechanization:gadgets/item/drill"},

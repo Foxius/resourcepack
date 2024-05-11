@@ -6,7 +6,8 @@
    
     "overrides": [
      { "predicate": { "custom_model_data": 1}, "model": "item/blue_print"},
-     { "predicate": { "custom_model_data": 6421105 }, "model": "mechanization:base/item/manual"},
-     { "predicate": { "custom_model_data": 90000}, "model": "stellarity:item/cursed_tome"}
+     { "predicate": { "custom_model_data": 90000}, "model": "stellarity:item/cursed_tome"},
+     { "predicate": { "custom_model_data": 6421105 }, "model": "mechanization:base/item/manual"}
+
     ]
    }

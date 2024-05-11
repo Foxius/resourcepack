@@ -51,18 +51,6 @@
         "custom_model_data": 8361001
       },
       "model": "sanguine:block/crimson_shrine/dried"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 8362000
-      },
-      "model": "jolted:block/grinding_mill/inactive"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 8362001
-      },
-      "model": "jolted:block/grinding_mill/active"
     }
   ]
 }

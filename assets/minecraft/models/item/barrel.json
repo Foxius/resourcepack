@@ -36,12 +36,6 @@
         "custom_model_data": 8361005
       },
       "model": "sanguine:block/credence/warped/blood"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 8362000
-      },
-      "model": "jolted:block/assembly_table"
     }
   ]
 }
