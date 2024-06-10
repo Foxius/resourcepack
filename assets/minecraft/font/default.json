@@ -16,6 +16,48 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:moon.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["月"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:mars.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["火"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:venus.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["♀"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:jupiter.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["♃"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:europa.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["♁"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:asteroids.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": ["✪"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:nether.png",
             "ascent": 8,
             "height": 16,
