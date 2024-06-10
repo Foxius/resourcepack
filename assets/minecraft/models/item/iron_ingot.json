@@ -15,6 +15,18 @@
 				"custom_model_data": 90001
 			},
 			"model": "stellarity:item/chorus_plating"
+		},
+		{
+		  "predicate": {
+			"custom_model_data": 7637001
+		  },
+		  "model": "minecraft:item/fuel"
+		},
+		{
+		  "predicate": {
+			"custom_model_data": 7637003
+		  },
+		  "model": "minecraft:item/corrector"
 		}
 	]
 }

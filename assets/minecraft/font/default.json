@@ -1,6 +1,24 @@
 {
     "providers": [
         {
+          "type": "bitmap",
+          "file": "custom_ui/dialogue/unknown.png",
+          "ascent": 2,
+          "height": 42,
+          "chars": [
+            "ꌀ"
+          ]
+        },
+        {
+          "type": "bitmap",
+          "file": "custom_ui/dialogue/robot.png",
+          "ascent": 2,
+          "height": 42,
+          "chars": [
+            "ꌥ"
+          ]
+        },
+        {
             "type": "bitmap",
             "file": "minecraft:model.png",
             "ascent": 16,
